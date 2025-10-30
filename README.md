@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%"/>
 
 # 💫 About Me:
-🔭 I’m a Software Engineer (currently at a FinTech company located in NYC).<br>
+🔭 I’m a Software Engineer.<br>
 🌱 Passionate about web development!<br>
 💬 A researcher of the perfect pizza recipe. Let's talk about it<br>
 ⚡ Fun fact: I also have a degree in physical education, however contrary that may be to a developer.
